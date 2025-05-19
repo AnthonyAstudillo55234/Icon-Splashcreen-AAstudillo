@@ -1,0 +1,13 @@
+{
+    "resourcesDirectory": "./resources",
+    "icon": {
+      "source": "icon.png",
+      "foreground": "#ffffff",
+      "background": "#3880ff"
+    },
+    "splash": {
+      "source": "splash.png",
+      "background": "#ffffff"
+    }
+  }
+  
